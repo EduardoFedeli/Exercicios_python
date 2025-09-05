@@ -363,3 +363,23 @@
 #         lista.append(n)
 
 # print("Números primos até", numero, ":", lista)
+
+# 3) Peça ao usuário um número inteiro e verifique:
+#    - Se é múltiplo de 3 e de 5 ao mesmo tempo → escreva "FizzBuzz".
+#    - Se for só múltiplo de 3 → "Fizz".
+#    - Se for só múltiplo de 5 → "Buzz".
+#    - Caso contrário → escreva o próprio número.
+
+# num = int(input('Digite um número: '))
+
+# if num % 3 == 0 and num % 5 == 0:
+#     print('FizzBuzz')
+# elif num % 3 == 0:
+#     print('Fizz')
+# elif num % 5 == 0:
+#     print('Buzz')
+# else:
+#     print(num)
+        
+
+
